@@ -8,3 +8,4 @@ reference
 5) The Application of Machine Learning in Self-Adaptive Systems: A Systematic Literature Review : https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9249012
 6) Applying Machine Learning in Self-Adaptive Systems: A Systematic Literature Review : https://arxiv.org/pdf/2103.04112.pdf
 7) Self Management and the Future of Software Design: https://www.info.ucl.ac.be/~pvr/facs06VanRoyFinal.pdf
+8) Machine learning based resource allocation of cloud computing in auction : https://www.researchgate.net/publication/328572395_Machine_learning_based_resource_allocation_of_cloud_computing_in_auction
