@@ -10,3 +10,5 @@ reference
 7) Self Management and the Future of Software Design: https://www.info.ucl.ac.be/~pvr/facs06VanRoyFinal.pdf
 8) Machine learning based resource allocation of cloud computing in auction : https://www.researchgate.net/publication/328572395_Machine_learning_based_resource_allocation_of_cloud_computing_in_auction
 Applying Machine Learning in Self-Adaptive Systems: ASystematic Literature Review : https://arxiv.org/pdf/2103.04112.pdf
+
+http://paper.ijcsns.org/07_book/201805/20180513.pdf
