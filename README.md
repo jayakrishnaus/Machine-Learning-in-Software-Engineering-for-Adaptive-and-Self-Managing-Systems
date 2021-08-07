@@ -12,3 +12,4 @@ reference
 Applying Machine Learning in Self-Adaptive Systems: ASystematic Literature Review : https://arxiv.org/pdf/2103.04112.pdf
 
 http://paper.ijcsns.org/07_book/201805/20180513.pdf
+Implementing a Process Scheduler Using Neural Network Technology : https://theses.ubn.ru.nl/bitstream/handle/123456789/168/Bex,%20P.MScThesis.pdf?sequence=1
